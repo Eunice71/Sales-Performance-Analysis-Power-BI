@@ -7,6 +7,7 @@ The goal was to use data to focus on identifying which product categories and re
 Methodology & Visuals
 
 Tool: Microsoft Power BI 
+
 Approach: I used standard time-series and geographical charts for context, then moved to the Key Influencers visual to statistically test what drives either high or low performance.
 
 ## Key Insights:
