@@ -21,12 +21,14 @@ Approach: I used standard time-series and geographical charts for context, then 
 • When the category is Office Supplies, sales are most likely to decline. This indicates that although technology generates large sums of money, our average order value is statistically declining due to the large volume of low-value office supply transactions.
 
 
-## Recommendation for Growth 
+## Recommendations: 
 
 •	For Operations:  Examine low-value subcategories such as labels and fasteners. In order to boost total profit, these things should be eliminated or packaged with other products if they are excessively expensive to ship or fulfil in relation to their pricing.
 
 •	For Marketing: Use the high frequency of Office Supplies sales as an upselling opportunity. Whenever a customer buys a low-cost item, the system should prompt a promotion for a higher-margin product to quickly lift the Average Order Value.
 
 Data Source:  Original sales dataset (available as a CSV in this repository).
+
 Dashboard: See the fully interactive .pbix file.
+
 [Connect with me] (https://www.linkedin.com/in/eunice-ikhuohon-eboreime-98b54a22b/) 
